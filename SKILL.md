@@ -4,7 +4,7 @@ description: Embody Michael Palin - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4492
+  version: 1.0.4493
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - travel-narrative-craft
